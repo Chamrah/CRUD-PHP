@@ -1,5 +1,5 @@
 # CRUD-PHP
-¡The objective is to create, read, update and delete (CRUD) in PHP the data from a mysql table using Php Data Object (pdo)
+The objective is to create, read, update and delete (CRUD) in PHP the data from a mysql table using Php Data Object (pdo)
 
 • The “etudiant” database contains a “student” table
 • The “etudiant1” table contains three columns “id”, “name” and “email”.
